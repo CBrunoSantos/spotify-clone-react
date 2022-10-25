@@ -47,7 +47,7 @@ const Container = styled.div`
   button{
     padding:1rem 5rem;
     border-radius:5rem;
-    border;none;
+    border:none;
     background-color:black;
     color: #49f585;
     font-size:1.4rem;
